@@ -1,20 +1,3 @@
-###############################################################
-# This script do the following:                               #
-# 1. Basics Example to Understand R                           #
-# 2. Reading and Writing to File                              #
-# 3. Simpe plotting                                           #
-#                                                             #
-# NOTE:                                                       #
-# 1. Open the Script in RStudio                               #
-# 2. To execute the command just press: ctrl + Enter          #
-#                                                             #
-#-------------------------------------------------------------#
-# Credit: Dr. Prashant Singh Rana                             #
-# Email : psrana@gmail.com                                    #
-# Web   : www.psrana.com                                      #
-###############################################################
-
-
 
 #-------------------------------------------------------------
 # Step 1: Simple Examples
